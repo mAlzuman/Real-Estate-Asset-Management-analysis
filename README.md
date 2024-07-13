@@ -1,4 +1,4 @@
- # Real-Estate-Asset-Management-analysis
+ # Real Estate Asset Management analysis
 This file contains all the projects I did during my internship to study the real estate asset management software industry in the U.S., including:
 * An overview of existing asset and property management software solutions.
 * Analyze the market size by calculating Whiterock's Total Addressable Market (TAM), Serviceable Addressable Market (SAM), and Serviceable Obtainable Market (SOM).
